@@ -1,0 +1,72 @@
+Uri: http://www.pascalvangemert.nl/
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\index.htm
+Content Type: text/html
+
+Uri: http://www.pascalvangemert.nl/view/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://www.pascalvangemert.nl/view/style.css
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\style.css
+Content Type: text/css
+
+Uri: http://www.pascalvangemert.nl/favicon.ico
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://www.pascalvangemert.nl/view/images/pascal_van_gemert.png
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\images\pascal_van_gemert.png
+Content Type: image/png
+
+Uri: http://www.pascalvangemert.nl/view/images/project_mals.jpg
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\images\project_mals.jpg
+Content Type: image/jpeg
+
+Uri: http://www.pascalvangemert.nl/view/images/project_soap.jpg
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\images\project_soap.jpg
+Content Type: image/jpeg
+
+Uri: http://www.pascalvangemert.nl/view/images/project_oranjebitter.jpg
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\images\project_oranjebitter.jpg
+Content Type: image/jpeg
+
+Uri: http://www.pascalvangemert.nl/view/images/project_oetelspel.jpg
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\images\project_oetelspel.jpg
+Content Type: image/jpeg
+
+Uri: http://www.pascalvangemert.nl/view/js/script.js
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\js\script.js
+Content Type: application/javascript
+
+Uri: http://www.pascalvangemert.nl/view/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://www.pascalvangemert.nl/view/fonts/glyphicons-halflings-regular.eot
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.pascalvangemert.nl/view/fonts/glyphicons-halflings-regular.eot?
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.pascalvangemert.nl/view/fonts/glyphicons-halflings-regular.woff
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\fonts\glyphicons-halflings-regular.woff
+Content Type: application/x-font-woff
+
+Uri: http://www.pascalvangemert.nl/view/fonts/glyphicons-halflings-regular.ttf
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://www.pascalvangemert.nl/view/fonts/glyphicons-halflings-regular.svg
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://www.pascalvangemert.nl/view/images/sm_icon_sprite.png
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\images\sm_icon_sprite.png
+Content Type: image/png
+
+Uri: http://www.pascalvangemert.nl/view/images/background.jpg
+File Name: c:\Downloaded Web Sites\www.pascalvangemert.nl\view\images\background.jpg
+Content Type: image/jpeg
+
